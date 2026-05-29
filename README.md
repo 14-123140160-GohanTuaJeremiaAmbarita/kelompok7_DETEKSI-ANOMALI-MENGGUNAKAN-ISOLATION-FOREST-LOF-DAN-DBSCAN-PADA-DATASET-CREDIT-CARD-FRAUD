@@ -1,5 +1,22 @@
 # kelompok7_DETEKSI-ANOMALI-MENGGUNAKAN-ISOLATION-FOREST-LOF-DAN-DBSCAN-PADA-DATASET-CREDIT-CARD-FRAUD
 
+## 👥 Anggota Kelompok Proyek (Kelompok 07)
+
+Proyek data mining ini berhasil diselesaikan berkat kolaborasi dari tim Kelompok 07:
+
+| Nama Anggota | NIM | Peran Utama dalam Tim |
+| :--- | :---: | :--- |
+| **Aditya Hot Martua Sihite** | 123140114 | Perancangan Eksperimen & Analisis Teoretis |
+| **Gohan Tua Ambarita** | 123140160 | Pengembangan Kode Python & Integrasi Pipeline |
+| **Jana Rohman Wasiso** | 123140046 | Eksplorasi Data (EDA) & Visualisasi Matplotlib |
+| **Hezkiel Rajani Aritonang** | 123140118 | Implementasi & Tuning Pemodelan Klasifikasi |
+| **Adelia Ramadani** | 123140183 | Evaluasi Metrik & Tabel Perbandingan Performa |
+| **Rian Rafael Sangap Tamba** | 123140190 | Penyusunan Laporan Utama & Dokumentasi BAB IV |
+| **Nadine Aura Rahmadhani** | 123140195 | Studi Literatur & Validasi Metrik Imbalanced Data |
+
+---
+**PROGRAM STUDI TEKNIK INFORMATIKA** **FAKULTAS TEKNOLOGI INDUSTRI** **INSTITUT TEKNOLOGI SUMATERA (ITERA)** **2026**
+
 # Deteksi Anomali Menggunakan Isolation Forest, LOF, dan DBSCAN pada Dataset Credit Card Fraud
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
@@ -100,19 +117,4 @@ Evaluasi performa klasifikasi diuji langsung pada data uji asli untuk mendapatka
 
 ---
 
-## 👥 Anggota Kelompok Proyek (Kelompok 07)
 
-Proyek data mining ini berhasil diselesaikan berkat kolaborasi dari tim Kelompok 07:
-
-| Nama Anggota | NIM | Peran Utama dalam Tim |
-| :--- | :---: | :--- |
-| **Aditya Hot Martua Sihite** | 123140114 | Perancangan Eksperimen & Analisis Teoretis |
-| **Gohan Tua Ambarita** | 123140160 | Pengembangan Kode Python & Integrasi Pipeline |
-| **Jana Rohman Wasiso** | 123140046 | Eksplorasi Data (EDA) & Visualisasi Matplotlib |
-| **Hezkiel Rajani Aritonang** | 123140118 | Implementasi & Tuning Pemodelan Klasifikasi |
-| **Adelia Ramadani** | 123140183 | Evaluasi Metrik & Tabel Perbandingan Performa |
-| **Rian Rafael Sangap Tamba** | 123140190 | Penyusunan Laporan Utama & Dokumentasi BAB IV |
-| **Nadine Aura Rahmadhani** | 123140195 | Studi Literatur & Validasi Metrik Imbalanced Data |
-
----
-**PROGRAM STUDI TEKNIK INFORMATIKA** **FAKULTAS TEKNOLOGI INDUSTRI** **INSTITUT TEKNOLOGI SUMATERA (ITERA)** **2026**
